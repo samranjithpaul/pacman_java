@@ -1,5 +1,8 @@
 # 🟡 Pac-Man Java Game
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br><br>
+
 A simple and fun **Pac-Man** game implemented in **Java** using basic object-oriented programming and GUI concepts.
 
 > 🕹️ Chase dots, avoid ghosts, and experience retro arcade vibes — all coded in Java!
